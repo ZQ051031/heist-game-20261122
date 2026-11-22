@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?ref=vbrytm16)
+[![Rank](https://make.fun/badge/best-heist-game-20261122-0559/ZQ051031/heist-game-20261122/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?ref=vbrytm16)
+[![Reward](https://make.fun/badge/best-heist-game-20261122-0559/ZQ051031/heist-game-20261122/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?ref=vbrytm16)
+
 # The Amber Gallery — A Heist in Three Rooms
 
 An original top-down stealth heist game, built for the make.fun
