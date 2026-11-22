@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Amber Gallery — A Heist in Three Rooms</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>◆</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="frame">
+  <header id="hud">
+    <div class="hud-block" id="hud-level"><span class="hud-label">ROOM</span><span id="hud-room">1 · The Marble Foyer</span></div>
+    <div class="hud-block" id="hud-loot"><span class="hud-label">LOOT</span><span id="hud-loot-value">$0</span></div>
+    <div class="hud-block" id="hud-alarm"><span class="hud-label">ALARM</span>
+      <div id="alarm-track"><div id="alarm-fill"></div><span id="alarm-text">0%</span></div>
+    </div>
+    <div class="hud-block" id="hud-tools"><span class="hud-label">TOOLS</span><span id="hud-tools-value"></span></div>
+    <div class="hud-block" id="hud-time"><span class="hud-label">TIME</span><span id="hud-time-value">0:00</span></div>
+  </header>
+  <canvas id="game" width="1280" height="720"></canvas>
+  <footer id="help">
+    <span><b>WASD / Arrows</b> move</span>
+    <span><b>Shift</b> sneak</span>
+    <span><b>E</b> grab loot</span>
+    <span><b>Click</b> toss a coin (lure)</span>
+    <span><b>2</b> smoke bomb</span>
+    <span><b>3</b> EMP pulse</span>
+    <span><b>P</b> pause</span>
+    <span><b>R</b> restart room</span>
+  </footer>
+</div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
